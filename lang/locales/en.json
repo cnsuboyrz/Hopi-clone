@@ -1,0 +1,169 @@
+{
+  "navbar.campaigns.label": "Campaigns",
+  "navbar.categories.label": "Categories",
+  "navbar.shopping.label": "Shopping",
+  "navbar.mywallet.label": "My Wallet",
+  "app.title": "All For You",
+  "home.searchbar.placeholder": "Search for brand, campaign, and product",
+  "home.allforyou.title": "All For You",
+  "home.allforyou.contents": [
+    {
+      "title": "Earn Points on Fuel",
+      "subtitles": "Earn %1 Reward Points"
+    },
+    {
+      "title": "Shopping",
+      "subtitles": "Earn %24 Reward Points"
+    },
+    {
+      "title": "Shopping",
+      "subtitles": "Earn %3 Reward Points"
+    },
+    {
+      "title": "Insurance Policy",
+      "subtitles": "Earn %5 Reward Points"
+    }
+  ],
+  "home.showmore.button": "Show More",
+  "allcampaigns.title": "All Campaigns",
+  "allcampaigns.contents": [
+    {
+      "title": "Earn Points on Fuel",
+      "subtitles": "Earn %1 Reward Points"
+    },
+    {
+      "title": "Shopping",
+      "subtitles": "Earn %24 Reward Points"
+    },
+    {
+      "title": "Shopping",
+      "subtitles": "Earn %3 Reward Points"
+    },
+    {
+      "title": "Insurance Policy",
+      "subtitles": "Earn %5 Reward Points"
+    },
+    {
+      "title": "Shopping",
+      "subtitles": "Free Coffee"
+    },
+    {
+      "title": "All Campaigns",
+      "subtitles": "Get %10 Discount"
+    },
+    {
+      "title": "Insurance Policy",
+      "subtitles": "Earn %25 Reward Points"
+    },
+    {
+      "title": "Special Rental",
+      "subtitles": "Get 600TL Discount"
+    }
+  ],
+  "categories.Kategoriler.title": "Categories",
+  "categories.Markalar.title": "Brands",
+  "category.contents": [
+    {
+      "title": "Clothing"
+    },
+    {
+      "title": "Shoes"
+    },
+    {
+      "title": "Bags"
+    },
+    {
+      "title": "Accessories"
+    },
+    {
+      "title": "Sports"
+    },
+    {
+      "title": "Cosmetics"
+    },
+    {
+      "title": "Baby & Kids"
+    },
+    {
+      "title": "Food & Drink"
+    },
+    {
+      "title": "Entertainment & Events"
+    },
+    {
+      "title": "Travel"
+    },
+    {
+      "title": "Fuel & Automotive"
+    },
+    {
+      "title": "Electronics"
+    },
+    {
+      "title": "Home & Decoration"
+    },
+    {
+      "title": "Books"
+    },
+    {
+      "title": "Banking & Insurance"
+    },
+    {
+      "title": "Services"
+    }
+  ],
+  "brands.title": "Brands",
+  "brands.number": " Brands",
+  "brands.search.placeholder": "Search",
+  "shopping.title": "Don't Miss November Deals",
+  "shopping.subtitle": "On purchases over 1000 TL",
+  "shopping.seemore.button": "See More",
+  "shopping.search.placeholder": "Search for brand, campaign, and product",
+  "mywallet.prckcard.title": "Total Reward Points",
+  "mywallet.prckcard.paracık": " Reward Points",
+  "mywallet.prckcard.gift": "Gift Points",
+  "mywallet.prckcard.fuel": "Fuel Points",
+  "mywallet.hopipaycard.content": "A virtual card that you can use everywhere you load money into, spend and earn, a free virtual card",
+  "mywallet.hopipaycard.button": "CREATE",
+  "mywallet.mycards.title": "My Cards",
+  "mywallet.mycards.content.title": "Credit / Debit Cards",
+  "mywallet.mycards.content.expl": "You have cards registered in Masterpass. You must link your account to make payments with your registered cards.",
+  "mywallet.mycards.button": "Link Masterpass Account",
+  "mywallet.othercards.title": "Other Cards",
+
+  "welcome.title": "Welcome",
+"welcome.subtitle": "You can return to Hopi's colorful and profitable world whenever you want",
+"welcome.button": "LOG IN",
+
+"email.title": "Email Address",
+"email.subtitle": "You can start by entering your email address",
+"email.button": "CONTINUE",
+
+"password.title": "Your Password",
+"password.subtitle": "You can step into the Hopi world by entering your password",
+"password.button": "CONTINUE",
+
+"product.producttab": "Products",
+"product.campaigntab": "Campaigns",
+
+"productbar.numeral": "Product",
+"productbar.sort": "Sort",
+"productbar.filter": "Filter",
+
+"sort.lowtohigh": "Lowest Price",
+"sort.hightolow": "Highest Price",
+"sort.newest": "Newest Products",
+"sort.suggested": "Suggested Sorting",
+
+"filter.category": "Category",
+"filter.gender": "Gender",
+"filter.shop": "Shop",
+"filter.brand": "Brand",  
+"filter.price": "Price",
+"filter.size": "Size",
+"filter.color": "Color",
+
+"filter.brands.button": "List Products"
+
+
+}

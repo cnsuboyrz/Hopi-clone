@@ -1,0 +1,175 @@
+{
+  "navbar.campaigns.label": "Kampanyalar",
+  "navbar.categories.label": "Kategoriler",
+  "navbar.shopping.label": "Alışveriş",
+  "navbar.mywallet.label": "Cüzdanım",
+    "app.title": "Hepsi Senin İçin",
+    "home.searchbar.placeholder": "Marka, kampanya ve ürün ara",
+    "home.allforyou.title": "Hepsi Senin İçin",
+    "home.allforyou.contents": [
+      {
+        "title": "Akaryakıt Harcamanda",
+        "subtitles":"%1 Paracık Kazan"
+      },
+      {
+        "title": "Alışverişlerinde",
+        "subtitles":"%24 Paracık Kazan"
+      },
+      {
+        "title": "Alışverişlerinde",
+        "subtitles":"%3 Paracık Kazan"
+      },
+      {
+        "title": "Sigorta poliçesinde ",
+        "subtitles":"%5 Paracık Kazan"
+      }
+    ],
+    "home.showmore.button": "Daha Fazla Göster",
+    "allcampaigns.title": "Tüm Kampanyalar",
+    "allcampaigns.contents": [
+      {
+        "title": "Akaryakıt Harcamanda",
+        "subtitles":"%1 Paracık Kazan"
+      },
+      {
+        "title": "ALışverişlerinde",
+        "subtitles":"%24 Paracık Kazan"
+      },
+      {
+        "title": "Alışverişlerinde",
+        "subtitles":"%3 Paracık Kazan"
+      },
+      {
+        "title": "Sigorta poliçesinde ",
+        "subtitles":"%5 Paracık Kazan"
+      },
+      {
+        "title": "Alışverişlerinde",
+        "subtitles":"Kahve hediye"
+      },
+      {
+        "title": "Tüm kampanyalara ek",
+        "subtitles":"%10 indiirm kazan"
+      },
+      {
+        "title": "Sigorta poliçesinde",
+        "subtitles":"%25 Paracık Kazan"
+      },
+      {
+        "title": "İlk Kiralama Özel ",
+        "subtitles":"600TL indirim Kazan"
+      }
+    ],
+    "categories.Kategoriler.title": "Kategoriler",
+    "categories.Markalar.title": "Markalar",
+    "category.contents": [
+      {
+        "title":"Giyim"
+      },
+      {
+        "title":"Ayakkabı"
+      },
+      {
+        "title":"Çanta"
+      },
+      
+      {
+        "title":"Aksesuar"
+      },
+      {
+        "title":"Spor"
+      },
+      {
+        "title":"Kozmetik"
+      },
+      {
+        "title":"Bebek & Çocuk"
+      },
+      {
+        "title":"Yeme İçme"
+      },
+      {
+        "title":"Eğlence & Etkinlik"
+      },
+      {
+        "title":"Seyahat"
+      },
+      {
+        "title":"Akaryakıt & Otomobil"
+      },
+      {
+        "title":"Elektronik"
+      },
+      {
+        "title":"Ev & Dekorasyon"
+      }, 
+      {
+        "title":"Kitap"
+      },
+      {
+        "title":"Bankacılık & Sigorta"
+      },
+      {
+        "title":"Hizmet"
+      }    
+    ],
+   "brands.title": "Markalar",
+    "brands.number":" Marka",
+    "brands.search.placeholder": "Arama Yap",
+    "shopping.title": "Kasım Fırsatları Kaçırma",
+    "shopping.subtitle":"1000 TL ve üzeri alışverişlerde",
+    "shopping.seemore.button": "Daha Fazla Gör",
+    "shopping.search.placeholder": "Marka, kampanya ve ürün ara",
+
+    "mywallet.prckcard.title": "Toplam Paracık",
+    "mywallet.prckcard.paracık": " Paracık",
+    "mywallet.prckcard.gift": "Hediye Paracık",
+    "mywallet.prckcard.fuel": "Akaryakıt Paracık",
+
+    "mywallet.hopipaycard.content": "İçine para yükleyebildiğin her yerde harcama yapabildiğin, harcadıkça kazandığın, ücretsiz bir sanal kart",
+    "mywallet.hopipaycard.button": "OLUŞTUR",
+
+    "mywallet.mycards.title": "Kartlarım",
+    "mywallet.mycards.content.title": "Kredi / Banka Kartlarım",
+    "mywallet.mycards.content.expl": " Masterpass'te kayıtlı kartların var. Kayıtlı kartlarınla ödeme yapmak için hesabını ilişkilendirmelisin.",
+    "mywallet.mycards.button": "Masterpass Hesabını İlişkilendir",
+
+    "mywallet.othercards.title": "Diğer Kartlarım",
+
+    "welcome.title": "Hoşgeldin",
+    "welcome.subtitle": "Ne zaman istersen, Hopi'nin renkli ve kazançlı dünyasına dönebilirsin",
+"welcome.button": "GİRİŞ YAP",
+
+"email.title": "Eposta Adresi",
+"email.subtitle": "Eposta adresini girerek başlayabilirsin",
+"email.button": "DEVAM",
+
+"password.title": "Parolanız",
+"password.subtitle": "Parolanızı girerek Hopi dünyasına adım atabilirsiniz",
+"password.button": "DEVAM",
+
+"product.producttab": "Ürünler",
+"product.campaigntab": "Kampanyalar",
+
+"productbar.numeral": "Ürün",
+"productbar.sort": "Sırala",
+"productbar.filter": "Filtrele",
+
+
+"sort.lowtohigh": "En Düşük Fiyat",
+"sort.hightolow": "En Yüksek Fiyat",
+"sort.newest": "En Yeni Ürünler",
+"sort.suggested": "Önerilen Sıralama",
+
+"filter.category": "Kategori",
+"filter.gender": "Cinsiyet",
+"filter.shop": "Dükkan",
+"filter.brand": "Marka",  
+"filter.price": "Fiyat",
+"filter.size": "Beden",
+"filter.color": "Renk",
+
+"filter.brands.button": "Ürünleri Listele"
+
+  }
+  
