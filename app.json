@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "17-cansuboyraz",
-    "slug": "17-cansuboyraz",
+    "name": "coix",
+    "slug": "coix",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.sm002.coix"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -31,14 +32,14 @@
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/f0c5411a-457e-4a3a-8bd3-43c610b00fdb"
+      "url": "https://u.expo.dev/42559edd-c590-48df-9b85-d53ffdcc52ba"
     },
     "plugins": [
       "expo-localization"
     ],
     "extra": {
       "eas": {
-        "projectId": "f0c5411a-457e-4a3a-8bd3-43c610b00fdb"
+        "projectId": "42559edd-c590-48df-9b85-d53ffdcc52ba"
       }
     }
   }

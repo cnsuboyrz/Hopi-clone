@@ -31,7 +31,7 @@ const HomeRoutes = ({ navigation, route }) => {
       });
   };
   const [logoUrl, setLogoUrl] = useState(null);
-  const logoImgRef = ref(storage, "icons/hopi.png");
+  const logoImgRef = ref(storage, "icons/coix.png");
 
   useEffect(() => {
     getDownloadURL(logoImgRef).then((url) => {
@@ -61,7 +61,12 @@ const HomeRoutes = ({ navigation, route }) => {
           headerTitle: () => (
             <TouchableOpacity onPress={handleLogout}>
               <Image
-                style={{ width: 100, height: 100, resizeMode: "contain" }}
+                style={{
+                  width: 100,
+                  height: 100,
+                  resizeMode: "contain",
+                  marginBottom: 20,
+                }}
                 source={{ uri: logoUrl }}
               />
             </TouchableOpacity>

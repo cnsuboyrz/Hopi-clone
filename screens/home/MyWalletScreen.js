@@ -20,7 +20,7 @@ export default function MyWalletScreen() {
             const bckColor = focused ? "#00CC00" : "white";
             const txtColor = focused ? "white" : "black";
             if (route?.name === "Hopi Pay") {
-              var tabname = "Hopi Pay";
+              var tabname = "Coix Pay";
             } else if (route?.name === "Kartlarım") {
               var tabname = t("mywallet.mycards.title");
             } else if (route?.name === "Diğer Kartlarım") {

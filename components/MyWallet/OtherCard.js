@@ -6,7 +6,7 @@ export default function OtherCard() {
     <View style={styles.imageContainer}>
       <Image
         style={styles.cardImage}
-        source={require("../../assets/img/othercards.png")}
+        source={require("../../assets/img/othercards.jpg")}
       ></Image>
     </View>
   );

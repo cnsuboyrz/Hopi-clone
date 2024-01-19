@@ -6,10 +6,7 @@ export default function HopiPayCard() {
   const { t } = useTranslation();
   return (
     <View style={styles.cardContainer}>
-      <Image
-        style={styles.hopiIcon}
-        source={require("../../assets/img/hopipay.png")}
-      />
+      <Text style={styles.cardheader}>Coix Pay</Text>
       <View
         style={{
           width: 220,
@@ -41,6 +38,11 @@ export default function HopiPayCard() {
 }
 
 const styles = StyleSheet.create({
+  cardheader: {
+    fontSize: 28,
+    fontWeight: "bold",
+    color: "orange",
+  },
   cardContainer: {
     backgroundColor: "white",
     justifyContent: "space-between",
